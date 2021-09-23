@@ -1,0 +1,11 @@
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\Negocio.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\Negocio.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\DAL.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\Entidades.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\DAL.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\bin\Debug\Entidades.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\obj\Debug\Negocio.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Negocio\obj\Debug\Negocio.pdb

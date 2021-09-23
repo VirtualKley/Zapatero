@@ -1,0 +1,9 @@
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\bin\Debug\DAL.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\bin\Debug\DAL.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\bin\Debug\Entidades.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\bin\Debug\Entidades.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\obj\Debug\DAL.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\DAL\obj\Debug\DAL.pdb

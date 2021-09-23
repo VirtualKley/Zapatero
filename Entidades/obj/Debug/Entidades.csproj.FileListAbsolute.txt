@@ -1,0 +1,6 @@
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\obj\Debug\Entidades.pdb
+C:\Users\MrKley\Desktop\Proyecto Prueba\Web\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
